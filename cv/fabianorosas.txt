@@ -1,0 +1,45 @@
+Fabiano Almeida Rosas - November 30, 1986
+
+fabianorosas@gmail.com
++55 (42) 9918-1626
+15 de novembro 320, Ponta Grossa, Parana - Brazil
+
+
+Summary:
+Currently pursuing a Bachelor's degree in Computer Science at Federal University of Technology - Parana UTFPR.
+
+I'm a final-year student of Computer Science facing the challenge of choosing whether to work in industry or to keep in the academic field. I managed to stand top of class throughout all of my academic career and always tried to absorb all that was being taught to me, which is why I feel very inclined to keep doing research and give back to society in the form of teaching. On the other hand, I'm a curious, fast-learning person and the myriad of technologies that keep Computer Science going make me very excited about the field and are always keeping me busy in my off-school hours, whether through news, hobby projects or self-study. That makes me want to get a job in industry and contribute to this whole ecosystem. I'm very enthusiastic about the impact that software can have in human lives.
+
+
+Education:
+
+Federal University of Technology - Parana UTFPR
+Ponta Grossa, Brazil
+Bachelor degree in Computer Science - (2011 - 2014)
+Focussed on formal methods applied to network protocols, object oriented development and open source technologies.
+
+State University of Ponta Grossa
+Ponta Grossa, Brazil
+Bachelor degree in Agronomy (discontinued) - (2004 - 2011)
+
+
+Skills:
+
+Technical specialties:
+Software design and implementation mainly in Java/C. Studied formal languages and formal verification through Model Checking. Linux user for 3+ years, working in a minimal setup and making heavy use of the command line. Comfortable with bash and automation with shell script. Did some programming in Python/Lisp/Javascript. Lectured courses in introductory Linux and LaTeX.
+
+Natural Languages:
+Portuguese (mother tongue), English (full professional proficiency), French (beginner), Russian (beginner).
+
+
+Interests:
+
+Non-exhaustive and in alphabetical order:
+Advances in science and technology, automation, basketball, cats, chess, craftsmanship, education, languages, open source, outdoors, research, software engineering, typography (e.g. LaTeX).
+
+
+Relevant links:
+
+http://br.linkedin.com/in/fabianorosas/
+https://github.com/fabianorosas
+
